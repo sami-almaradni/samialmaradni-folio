@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(180deg, rgba(188,194,192,1) 34%, rgba(160,187,195,1) 70%);
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1.2rem;
+    
+}
+
+h1 {
+    line-height: 35px;
+}
+
+.div-box {
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p > a:hover {
+    font-size: 20px;
+}
