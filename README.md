@@ -1,1 +1,0 @@
-# samialmaradni-folio
